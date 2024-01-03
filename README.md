@@ -24,6 +24,23 @@
 
 ⭐```B-P working```: It works by propagating the error from the output layer back to input layer of nn.
 
+#Hyperparameters you can define while defining a model
+
+⭐Loss Function
+⭐Number of Epochs
+⭐Optimizer
+⭐Bias
+⭐Learning Rate
+⭐Dropout Rate
+⭐Batch Size
+⭐Number of Hidden Layers and Neurons per Layer
+⭐Activation Functions
+⭐Weight Initialization
+⭐Normalization Techniques
+⭐Kernel Size (for Convolutional Neural Networks - CNNs
+⭐Stride and Padding (for CNNs)
+⭐Recurrent Neural Network (RNN) Specific Hyperparameters
+
 ***Typical Neural Network implementation and formatting in tensorflow:***
 ```
 import tensorflow as tf
