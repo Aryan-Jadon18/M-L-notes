@@ -42,6 +42,9 @@ grads = tape.gradient(loss_value, model.trainable_weights)
 
 In this example, we define a neural network using the tf.keras.Sequential API. We then compile the model using the compile method and train it using the fit method. Finally, we calculate the gradients of the loss function with respect to the model’s parameters using the tf.GradientTape context manager.
 
+```
+In the code snippet you provided, tf.keras.layers.Dense(64, activation='relu') creates a dense layer with 64 neurons and a rectified linear unit (ReLU) activation function. tf.keras.layers.Dense(10, activation='softmax') creates another dense layer with 10 neurons and a softmax activation function. These layers can be used to build a neural network for classification tasks.
+```
 
 
 
@@ -65,3 +68,15 @@ And here is a flowchart that shows the process of updating the parameters during
 ```
 input data -> forward pass -> loss function -> backward pass -> gradients -> update parameters -> repeat
 ```
+
+**Bias**: A bias is a scalar value that is added to the weighted sum of the inputs and weights of a neuron. It allows the neuron to shift the activation function to the left or right, which can be useful for modeling certain types of data.
+
+**Learning rate**: The learning rate is a hyperparameter that controls the step size of the optimization algorithm during training. A higher learning rate can lead to faster convergence, but it can also cause the optimization algorithm to overshoot the minimum of the loss function.
+
+**Weight**: A weight is a scalar value that is multiplied by the input of a neuron. It determines the strength of the connection between the input and the neuron. During training, the weights are updated using the gradients of the loss function with respect to the weights.
+
+**Epochs**: An epoch is a complete pass through the training dataset during training. During each epoch, the model is trained on all of the training examples in the dataset.
+
+**Batch size**: The batch size is the number of training examples used in each iteration of the optimization algorithm. During each iteration, the gradients of the loss function with respect to the weights are calculated using the batch of training examples.
+
+**Activation**: An activation function is a function that is applied to the output of a neuron. It introduces non-linearity into the model, which can be useful for modeling complex data.
