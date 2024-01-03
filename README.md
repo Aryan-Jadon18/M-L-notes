@@ -42,6 +42,9 @@ grads = tape.gradient(loss_value, model.trainable_weights)
 
 In this example, we define a neural network using the tf.keras.Sequential API. We then compile the model using the compile method and train it using the fit method. Finally, we calculate the gradients of the loss function with respect to the model’s parameters using the tf.GradientTape context manager.
 
+Adam is a predefined optimizer in TensorFlow. It is an extension of the stochastic gradient descent (SGD) algorithm that is widely used in deep learning. The Adam optimizer uses adaptive learning rates for each weight in the network and is computationally efficient. It is also well-suited for problems that are large in terms of data and/or parameters, and appropriate for non-stationary objectives and problems with very noisy or sparse gradients1.
+
+In the code snippet I provided, we use the Adam optimizer to update the model’s parameters during training. The Adam optimizer is instantiated using the optimizer='adam' argument in the model.compile() method. This tells TensorFlow to use the Adam optimizer to minimize the loss function during training.
 ```
 In the code snippet you provided, tf.keras.layers.Dense(64, activation='relu') creates a dense layer with 64 neurons and a rectified linear unit (ReLU) activation function. tf.keras.layers.Dense(10, activation='softmax') creates another dense layer with 10 neurons and a softmax activation function. These layers can be used to build a neural network for classification tasks.
 ```
