@@ -125,7 +125,8 @@ for epoch in range(10):
 ```
 :warning: Keras and PyTorch are both popular deep learning libraries, but they have different APIs and are ```not directly compatible with each other```. However, it is ```possible to convert models between the two libraries using third-party tools``` such as onnx or pytorch2keras. These tools can help you convert a model trained in PyTorch to Keras or vice versa.
 
-#or
+# or
+
 ```
 import torch
 import torch.nn as nn
