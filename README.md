@@ -5,6 +5,7 @@ This repository contains the code and resources for a machine learning beginner,
 
 📓Note: Though this repo is made so, that you can read it, and run code in google colab, you can still install it locally to run code!
 
+➡️For efficiency while creating this repo, I've preferred to add basic resources firstly. Those can be improved later on..
 ## Mind Maps
 Here are some mind maps that summarize the concepts of machine learning from data analysis to deep learning:
 - [Machine Learning Mindmap](https://github.com/dformoso/machine-learning-mindmap)
