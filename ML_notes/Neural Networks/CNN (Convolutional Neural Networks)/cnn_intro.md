@@ -9,3 +9,5 @@ Here’s a simple breakdown of the components:
 3:**Fully connected layers**: These layers perform high-level reasoning and yield the final output. They take the features learned by previous layers and use them to classify the input into various categories2.
 
 ![Typical-CNN-architecture](https://github.com/Aryan-Jadon18/M-L-notes/assets/95238912/0440d153-2bd9-4adc-9eb3-9846126d5950)
+
+▶️To see the implementation in tensorflow visit: ![cnn.py]()
