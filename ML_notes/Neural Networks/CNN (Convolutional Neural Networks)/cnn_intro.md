@@ -10,4 +10,4 @@ Here’s a simple breakdown of the components:
 
 ![Typical-CNN-architecture](https://github.com/Aryan-Jadon18/M-L-notes/assets/95238912/0440d153-2bd9-4adc-9eb3-9846126d5950)
 
-▶️To see the implementation in tensorflow visit: ![cnn.py](https://github.com/Aryan-Jadon18/M-L-notes/blob/main/ML_notes/Neural%20Networks/CNN%20(Convolutional%20Neural%20Networks)/cnn.py)
+▶️To see the implementation in tensorflow visit: [cnn.py](https://github.com/Aryan-Jadon18/M-L-notes/blob/main/ML_notes/Neural%20Networks/CNN%20(Convolutional%20Neural%20Networks)/cnn.py)
