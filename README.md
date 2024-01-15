@@ -3,6 +3,9 @@
 ## Introduction
 This repository contains the code and resources for a machine learning beginner, I started creating this as a hobby or a daily journal for ML enthusiasts.
 
+
+Context: Machine learning is a constantly evolving technology and currently we're also hearing abooout AGI to be implemented. So, to keep everyone up with new developments the ```new development section``` was added.
+
 📓Note: Though this repo is made so, that you can read it, and run code in ```google colab```, you can still install it locally to run code!
 
 ➡️For efficiency while creating this repo, I've preferred to add basic resources firstly. Those can be improved later on..
