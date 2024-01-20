@@ -11,3 +11,5 @@ This is an era of mostly usupervised and reinforcement learning. Meanwhile ```De
 
 👦: For example:
 ```Autoencoders``` are a type of unsupervised learning algorithm that use deep neural networks to learn a compressed representation of the input data.
+
+There are other learning methods too, like ensemble learning and multi-modal learning methods like bagging etc.. but they'll be included later in this repo.
