@@ -72,6 +72,7 @@ output = model(x)
 
 print("Output shape:", output.shape)  # (5, 2)
 ```
+---
 ### 📈 Applications
 Natural Language Processing (NLP): Text generation, sentiment analysis, machine translation.
 
@@ -80,10 +81,11 @@ Speech Recognition: Converting audio signals into text.
 Time Series Forecasting: Stock prices, weather prediction.
 
 Video Analysis: Frame-by-frame sequence modeling.
-
+---
 ### ✅ Summary
 RNNs are powerful for sequential data but limited by gradient issues.
 
 LSTM and GRU are improved versions widely used in practice.
 
 PyTorch makes it easy to implement RNNs with nn.RNN, nn.LSTM, and nn.GRU.
+---
