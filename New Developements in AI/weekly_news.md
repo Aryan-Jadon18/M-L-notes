@@ -1,46 +1,61 @@
-# 📰 Weekly AI/ML News Digest  
-**Week of December 19, 2025**
-
-A curated list of the most important developments in the AI/ML world from both **industry** and **research** perspectives.
-
----
-
-## 🚀 Industry Headlines
-- **Flipkart acquires Minivet AI**  
-  Flipkart bought a majority stake in *Minivet AI*, a generative video and ML startup, to strengthen its **GenAI capabilities** for immersive e-commerce experiences.
-
-- **Google expands Gemini transparency tools**  
-  Gemini app users can now verify AI-generated audio/visuals via **SynthID watermarking**, advancing responsible AI content labeling.
-
-- **OpenAI opens ChatGPT app submissions**  
-  Developers can now publish apps directly into the **ChatGPT app directory**, signaling ChatGPT’s evolution into a **platform ecosystem**.
-
-- **Amazon introduces Alexa+ Greetings**  
-  Ring doorbells now use AI to visually identify visitors and handle conversations autonomously, expanding AI into **smart home automation**.
-
-- **Salesforce launches Agentforce Sales app**  
-  Integrated into ChatGPT, this app lets users update CRM records and generate account plans directly in conversation, embedding AI into **enterprise workflows**.
+# Weekly AI/ML Times
+Edition: December 29, 2025  
+A curated digest of the biggest developments in Artificial Intelligence & Machine Learning.
 
 ---
 
-## 🔬 Research & Academic Updates
-- **IndoML 2025 Symposium (Dec 19–21)**  
-  Hosted at **BITS Pilani Hyderabad**, IndoML brings together global AI leaders to discuss **state-of-the-art ML research** and mentor Indian PhD/Master’s students.
-
-- **arXiv December 2025 AI Papers**  
-  Fresh batch of **1,571 entries** this month. Highlights include:  
-  - *Gold-Medal-Level Olympiad Geometry Solving* – AI tackling advanced geometry problems.  
-  - *Chunking Strategies for Multimodal AI Systems* – improving multimodal reasoning efficiency.  
-  - *A Rosetta Stone for AI Benchmarks* – standardizing evaluation across AI systems.  
-  - *Reasoning Under Pressure* – stress-testing reasoning robustness.
+## Front page — Mega deals rock the AI world
+- **Nvidia–Groq:** Nvidia acquires Groq in a landmark $20B deal, reshaping the AI hardware race.
+- **Databricks funding:** Raises $4B+ at a $134B valuation, solidifying its position in data and AI platforms.
+- **IBM–Confluent:** IBM buys Confluent for $11B to strengthen real-time enterprise AI pipelines.
+- **SoftBank–DigitalBridge:** SoftBank expands its digital infrastructure bets with a $4B purchase.
 
 ---
 
-## 📈 Why This Week Matters
-- **For Developers** → Flipkart’s GenAI push + OpenAI’s app directory = **new opportunities for tool builders**.  
-- **For Researchers** → IndoML + arXiv papers highlight **benchmarking, multimodal reasoning, and applied problem-solving**.  
-- **For Enterprises** → Salesforce and Amazon embed AI into **daily workflows and consumer devices**, signaling mainstream adoption.
+## Research spotlight — Open models and reasoning gains
+- **DeepSeek-V3 release:** Open-source model rivaling frontier systems in reasoning, coding, and math, with sparse attention for lower inference costs.
+- **arXiv highlights:**  
+  - **Geometry solving:** AI reaches Olympiad-level problem solving with heuristic constructions.  
+  - **Multimodal chunking:** New strategies improve efficiency and context handling for multimodal systems.  
+  - **Benchmark harmonization:** A “Rosetta Stone” effort to standardize evaluation across diverse AI tasks.
 
 ---
 
-✍️ *Curated by Aryan Singh Jadon*  
+## Global trends and policy — Infrastructure, regulation, talent
+- **Infrastructure pledges:** AI leaders commit approximately $1.3T in future compute, data center, and network spend.
+- **Regulatory tension:** A new executive order intensifies debate over state-level AI governance and compliance.
+- **Talent wars:** High-profile hiring and retention moves, including a reported ~$15B package to secure top leadership.
+
+---
+
+## Health and society — Practical impact expands
+- **Diagnostics:** AI models advance medical imaging interpretation and decision support.
+- **Workflow tools:** Creative AI utilities begin integrating into clinical and research pipelines.
+- **Personalized recaps:** Consumer-facing features like “Your Year with ChatGPT” roll out globally.
+
+---
+
+## Quick facts
+| Category       | Highlight                 | Value/Impact        |
+|----------------|---------------------------|---------------------|
+| Mega deal      | Nvidia acquires Groq      | $20B                |
+| Funding        | Databricks Series L       | $4B+, $134B valuation |
+| Acquisition    | IBM buys Confluent        | $11B                |
+| Infrastructure | AI firms pledge           | ~$1.3T              |
+| Research       | DeepSeek-V3               | Frontier-level reasoning |
+| Regulation     | Executive order           | State-level conflicts |
+| Talent         | Leadership hiring         | ~$15B package       |
+
+> Sources: Internal weekly tracking and public announcements
+
+---
+
+## Editorial note
+2025 closes with momentum: record-breaking deals, open-source breakthroughs, trillion-scale infrastructure commitments, and fierce talent competition. Expect 2026 to amplify hardware innovation, enterprise data streaming, and standardized evaluation frameworks—while regulation and compliance shape how fast these gains reach the real world.
+
+---
+
+## How to use this README
+- **Share:** Drop this file into your repo’s root as README.md.
+- **Customize:** Replace or append items under each section with your team’s weekly highlights.
+- **Tag:** Add dates and context so the archive stays searchable and consistent.
